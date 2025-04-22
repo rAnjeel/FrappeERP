@@ -21,15 +21,15 @@ variable "ERPNEXT_VERSION" {
 }
 
 variable "FRAPPE_REPO" {
-    default = "https://github.com/frappe/frappe"
+    default = "https://github.com/rAnjeel/FrappeERP"
 }
 
 variable "ERPNEXT_REPO" {
-    default = "https://github.com/frappe/erpnext"
+    default = "https://github.com/rAnjeel/NextERP"
 }
 
 variable "BENCH_REPO" {
-    default = "https://github.com/frappe/bench"
+    default = "https://github.com/rAnjeel/BenchERP"
 }
 
 variable "LATEST_BENCH_RELEASE" {
